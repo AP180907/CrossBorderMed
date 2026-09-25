@@ -1,0 +1,4 @@
+.grok/
+node_modules/
+.vercel/
+.env.*

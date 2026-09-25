@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CrossBorderMed",
+      "hasCanvas": false,
+      "bodyTextLen": 3973,
+      "bodyTextHash": "a3492e332513b0dc740a70bad96acc84ab6256687a908b0ac363c66ba67d2cc3",
+      "bodyTextPrefix": "CrossBorderMed Check History Vault Emergency Check my medication",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CrossBorderMed",
+      "hasCanvas": false,
+      "bodyTextLen": 3959,
+      "bodyTextHash": "9e9ac0b75d076f914b687804aff7a22af8786a8e2669c67e62a879226871abf7",
+      "bodyTextPrefix": "CrossBorderMed Check Check History Vault Emergency MEDICATION · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
